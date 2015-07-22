@@ -1,0 +1,27 @@
+{
+  "name": "mails-cli",
+  "version": "0.1.0",
+  "description": "a cli tool for mails",
+  "main": "index.js",
+  "bin": "bin",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turingou/mails-cli.git"
+  },
+  "keywords": [
+    "mails"
+  ],
+  "author": "turing <o.u.turing@Gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/mails-cli/issues"
+  },
+  "homepage": "https://github.com/turingou/mails-cli#readme",
+  "dependencies": {
+    "exeq": "2.2.0",
+    "optimist": "0.6.1"
+  },
+  "devDependencies": {
+    "babel": "^5.8.3"
+  }
+}
